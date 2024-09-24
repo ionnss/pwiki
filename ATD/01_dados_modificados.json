@@ -1,0 +1,22 @@
+[
+  {
+    "nome": "Introdução à Psicologia",
+    "autor": "Autor A",
+    "ano": 2021
+  },
+  {
+    "nome": "Teorias da Personalidade",
+    "autor": "Autor B",
+    "ano": 2019
+  },
+  {
+    "nome": "Psicologia Comportamental",
+    "autor": "Autor C",
+    "ano": 2022
+  },
+  {
+    "nome": "Psicologia do Cu",
+    "autor": "C de CU",
+    "ano": 2024
+  }
+]
